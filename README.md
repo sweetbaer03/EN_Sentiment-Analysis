@@ -18,3 +18,15 @@
 
 ## 3.   추가데이터
 *   IMDB 데이터셋
+
+
+## 4. 각 모델별 전처리 방식
+
+실험 모델|전처리|모델|
+|------|---|---|
+|BERT|bert-base-uncased|bert-base-uncased|
+|ELECTRA|electra-small, electra-base, electra-large|electra-small, electra-base, electra-large|
+|DistilBERT|distilbert-base-uncased|distilbert-base-uncased|
+
+## 5. 참고자료
+
