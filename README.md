@@ -30,3 +30,8 @@
 
 ## 5. 참고자료
 
+ELECTRA : 
+https://github.com/jiwonny/nlp_emotion_classification/blob/master/friends_electra.ipynb
+
+텐서플로2와 머신러닝으로 시작하는 자연어 처리(전창욱 외, 위키북스, 2020) 참고
+(IMDB전처리까지)
